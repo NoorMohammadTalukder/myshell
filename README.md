@@ -1,7 +1,7 @@
 # MyShell — Custom Linux Shell in C
 
 A custom UNIX shell built from scratch in C demonstrating
-core OS process management and IPC concepts.
+core OS process management 
 
 ## Features
 - Custom colored prompt with current directory
